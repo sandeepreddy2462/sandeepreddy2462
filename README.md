@@ -13,8 +13,7 @@ I’m an innovative and results-driven recent graduate passionate about building
 
 ## 📫 Let’s Connect!
 
-- 🌐 [LeetCode](https://leetcode.com/your_username)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your_username)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sandeep-reddy-6097b9307/)
 
 ---
 
