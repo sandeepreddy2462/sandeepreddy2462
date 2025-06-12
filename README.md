@@ -1,4 +1,4 @@
-# 👋 About Me
+# 👋
 
 🚀 **Aspiring Software Engineer | Recent Graduate**
 
