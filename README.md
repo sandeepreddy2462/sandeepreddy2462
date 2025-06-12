@@ -4,11 +4,11 @@
 
 I’m an innovative and results-driven recent graduate passionate about building impactful solutions with code. My toolkit spans:
 
-- 💻 **Languages:** Python, Java, C, JavaScript, SQL  
-- ⚙️ **Frameworks & Libraries:** React.js, Flask, MLxtend, scikit-learn  
-- 🌐 **Technologies:** REST APIs, CI/CD, Power BI, Exploratory Data Analysis, Agile  
-- 🛠️ **Tools & Platforms:** Google Colab, Android Studio, phpMyAdmin, VS Code, Git, GitHub  
-
+Languages & Tools: Python, SQL, Java, JavaScript, C, Git, VS Code, MySQL, Colab, joblib
+Libraries & Frameworks: Pandas, NumPy, Seaborn, Matplotlib, Flask, React, MLxtend,
+ scikit-learn
+Technologies & Platforms: MERN, REST APIs, Model Tuning, Exploratory Data Analysis,
+ Streamlit, Feature Engineering, Power BI, CI/CD, Agile
 ---
 
 ## 📫 Let’s Connect!
