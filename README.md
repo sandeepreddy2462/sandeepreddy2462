@@ -1,5 +1,3 @@
-# 👋
-
 🚀 **Aspiring Software Engineer | Recent Graduate**
 
 I’m an innovative and results-driven recent graduate passionate about building impactful solutions with code.
