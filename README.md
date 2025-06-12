@@ -2,14 +2,7 @@
 
 🚀 **Aspiring Software Engineer | Recent Graduate**
 
-I’m an innovative and results-driven recent graduate passionate about building impactful solutions with code. My toolkit spans:
-
-Languages & Tools: Python, SQL, Java, JavaScript, C, Git, VS Code, MySQL, Colab, joblib
-Libraries & Frameworks: Pandas, NumPy, Seaborn, Matplotlib, Flask, React, MLxtend,
- scikit-learn
-Technologies & Platforms: MERN, REST APIs, Model Tuning, Exploratory Data Analysis,
- Streamlit, Feature Engineering, Power BI, CI/CD, Agile
----
+I’m an innovative and results-driven recent graduate passionate about building impactful solutions with code.
 
 ## 📫 Let’s Connect!
 
